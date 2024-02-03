@@ -1,0 +1,137 @@
+.logo{
+    text-align: center;
+    padding-left: 1%;
+}
+h1{
+    text-align: center;
+    display: inline;
+    font-size: 300%;
+    padding: 16%;
+    padding-bottom: 10%;
+    margin-bottom: 10%;
+}
+body 
+{
+    background-color: bisque;
+}
+header{
+    background-color: rgb(122, 162, 153);
+}
+h2,h3{
+    color: rgba(57, 17, 17, 0.963);
+    text-align: center;
+    text-decoration:underline;
+    /*text-decoration: overline;*/
+    font-size: 30px;
+}
+#box{
+    background-color: rgba(57, 17, 17, 0.963);
+}
+#box2{
+    background-color: rgba(57, 17, 17, 0.963);
+}
+.mc{
+    color: white;
+}
+.speech{ text-align: center;
+     font-weight: bolder;
+     font-size: 20px;
+     line-height: 30px;
+     line-break:anywhere;
+     
+}
+.video{ text-align: center;}
+a{
+    text-decoration: none;
+}
+h3,h2{
+    height: 40px;
+    width: 1;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: rgb(71, 12, 12);
+}
+#bb{ 
+    
+    background-color:rgb(71, 12, 12) ; 
+    line-height: 40px; 
+    color: darkgoldenrod;
+}
+.bb1{
+    padding-LEFT: 5%;
+    color: goldenrod;
+    margin-right: 40px; 
+}
+.bb2{
+    
+    padding: 3%;
+    color: goldenrod;
+    margin: 15px;
+    border:1px solid black;
+    background-color:rgb(44, 35, 35);
+}
+#big{padding-left:2%;}
+#video{text-align: center;}
+#pic{padding-left: 2%;
+    margin-right:200px;
+}
+.box4{
+    display: inline;
+    position:fixed;
+    text-shadow:brown;    
+    background-color:rgb(200, 133, 133);color:azure;
+    border :2px solid black;
+    top:300px;
+    left:93%; 
+    font-style: italic;
+}
+.box5{
+    text-align: center;
+    display: inline;
+    position:fixed;
+    text-shadow:brown;    
+    background-color:rgb(183, 111, 111);color: white;
+    border :2px solid black;
+    top: 275px;
+    left:93.8%;   
+    font-style: italic; 
+}
+.found{
+    height: 40px;
+    text-align: center; 
+    text-decoration: underline;
+    color: goldenrod;
+    background-color: rgba(57, 17, 17, 0.963);
+    text-shadow: 2cm;
+    font-size:larger;
+}
+.img{
+    padding: 20px;
+    text-align: center;
+}
+.name{
+    text-align: center;
+    font-size: large;
+    text-decoration:underline;
+    
+}
+.msg{
+    margin-left: 390px;
+    text-align:center;
+    width: 500px;
+}
+.link{
+    display: flex;
+}
+.social{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin:0 10px;
+    padding:0;
+   text-decoration: none;
+   color: #000;
+   box-shadow: 0 5px 5px white;
+   border-radius: 50%;
+   background-color: white;
+}
